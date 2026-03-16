@@ -30,7 +30,7 @@ The dataset contains customer information such as:
 * Churn status (Yes/No)
 
 ## Dashboard Preview
-
+![dashboard](Customer_Churn_Analysis.png)
 
 
 
