@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes customer churn data for DataLab to identify patterns and factors that contribute to customers leaving a service. The analysis helps the Business understand customer behavior and develop strategies to improve customer retention.
+This project analyzes customer churn data for DataBel to identify patterns and factors that contribute to customers leaving a service. The analysis helps the Business understand customer behavior and develop strategies to improve customer retention.
 
 ## Objectives
 
@@ -16,6 +16,7 @@ This project analyzes customer churn data for DataLab to identify patterns and f
 * Microsoft Excel – Data Cleaning
 * Microsoft Excel – Data Visualization and Dashboard
 * Data Analysis Techniques
+* Microsoft Excel - Pivot Tables, KPI Calculation, and Data modeling
 
 ## Dataset
 
@@ -30,13 +31,23 @@ The dataset contains customer information such as:
 
 ## Dashboard Preview
 
-![Customer Churn Dashboard](images/churn_dashboard.png)
+
+
 
 ## Key Insights
 
-* Customers with month-to-month contracts show higher churn rates.
-* Higher monthly charges are associated with increased churn.
-* Customers with longer tenure tend to remain with the company.
+Overall CHURN RATE: 26.86% (1,796 out of 6,687 customers).
+
+ 1.The TOP CHURN REASON is “Competitor made better offer” (16.87%).
+ 
+ 2.Closely followed by “Competitor had better devices” (16.54%).
+Combined, competitive factors account for approximately 33.41% of total churn reasons.
+
+ 3.Churn is more concentrated in specific states and higher age segments.
+ 
+ 4.Older age segments show relatively higher churn patterns. 
+ 
+The data suggests that customer attrition is primarily influenced by competitive market pressure rather than internal service dissatisfaction alone. Strengthening pricing strategy, enhancing bundled offers, and introducing device upgrade incentives could significantly reduce churn risk.
 
 ## Project Structure
 
@@ -48,3 +59,9 @@ The dataset contains customer information such as:
 ## Author
 
 Samuel Wusu
+
+
+
+
+
+
