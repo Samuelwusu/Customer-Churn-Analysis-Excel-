@@ -49,13 +49,6 @@ Combined, competitive factors account for approximately 33.41% of total churn re
  
 The data suggests that customer attrition is primarily influenced by competitive market pressure rather than internal service dissatisfaction alone. Strengthening pricing strategy, enhancing bundled offers, and introducing device upgrade incentives could significantly reduce churn risk.
 
-## Project Structure
-
-* `data/` – Raw dataset used for analysis
-* `dashboard/` – Power BI dashboard file (.pbix)
-* `images/` – Screenshots of the dashboard
-* `report/` – Detailed insights and analysis
-
 ## Author
 
 Samuel Wusu
