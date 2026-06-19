@@ -1,5 +1,13 @@
 # Customer-Churn-Analysis-Excel-
+# Table of Contents
 
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Tools & Technologies](#tools--technologies)
+- [Dataset](#dataset)
+- [Dashboard Preview](#dashboard-preview)
+- [Key Insights](#key-insights)
+- [Author](#author)
 ## Project Overview
 
 This project analyzes customer churn data for DataBel to identify patterns and factors that contribute to customers leaving a service. The analysis helps the Business understand customer behavior and develop strategies to improve customer retention.
